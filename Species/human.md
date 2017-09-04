@@ -1,5 +1,7 @@
 # Human
-Humans are an adaptive and expansionist species, with a tendency towards colonization and innovation – they are as varied as the many planets from which they hail. Centuries on different worlds has resulted in a diverse species – some colonies on high gravity worlds grew into planets of strong men and women, while other planets attuned their populations over many years in otherways.
+Humans are an adaptive and expansionist species, with a tendency towards colonization and innovation
+- they are as varied as the many planets from which they hail. Centuries on different worlds has resulted in a diverse species
+- some colonies on high gravity worlds grew into planets of strong men and women, while other planets attuned their populations over many years in other ways.
 Human adventurers are extremely varied, from military officers toengineers, to priests, to criminals.
 
 **Typical Names**: 
